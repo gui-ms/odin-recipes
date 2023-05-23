@@ -9,14 +9,31 @@ img {
     width: 100vh;
 }
 
+button{
+    padding: 10px;
+}
+
+li{
+    line-height: 2.5;
+}
+
 .list-wrapper {
     list-style-position: inside;
+    
 }
 
 .recipe-name {
     font-size: 20px;
+    border: 2px solid #3d080480;
+    background: #e9797180;
+    
+
 }
 
 .description {
     font-style: italic;
+    border: 2px solid #3d080480;
+    background: #e9797180;
+    width: 100vh;
+    margin: auto;
 }
